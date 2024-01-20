@@ -1,0 +1,1 @@
+var queryURL = "api.openweathermap.org/data/2.5/forecast?lat=44.34&lon=10.99&appid=3d7891a22193528f3697763bad757015"

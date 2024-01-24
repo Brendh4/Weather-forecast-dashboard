@@ -10,7 +10,7 @@ Link to deployed application: https://brendh4.github.io/Weather-forecast-dashboa
 
 To use this application, open it in your browser, and use the search bar to type in a location, press search and the forecast will be shown
 
-!\[Deployed webpage screenshot\](/assets/images/screenshot.PNG)
+![Deployed webpage screenshot](/asset/images/screenshot.PNG)
 
 ## Credits
 
